@@ -1,2 +1,6 @@
 # GLore
-I dont fuking know 
+I dont fuking know. 
+
+....
+
+perhaps.
